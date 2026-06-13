@@ -1,0 +1,2 @@
+# Deep-Learning-Based-Optical-Character-Recognition-Model-for-Old-Turkic
+This repository contains the source code for the paper “A Deep Learning Based Optical Character Recognition Model for Old Turkic.” The project implements a CNN-based optical character recognition model designed to classify Old Turkic script characters using image preprocessing, data augmentation, training, evaluation, and prediction steps.
